@@ -1,0 +1,14 @@
+.your_library {
+  height: 10rem;
+  overflow-y: scroll;
+}
+
+.your_library::-webkit-scrollbar {
+  width: 12px;
+  background-color: #ffffff75;
+}
+
+.cover-library {
+  height: 400px;
+  margin-bottom: 70px;
+}
